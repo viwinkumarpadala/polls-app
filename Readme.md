@@ -11,7 +11,7 @@ MySQL -
 1. **Clone the application**
 
 	```bash
-	git clone 
+	git clone https://github.com/viwinkumarpadala/polls-app.git
 	cd polling-app-server
 	```
 
